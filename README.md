@@ -2,7 +2,7 @@
 - 👀 I’m interested in ai development
 - 🌱 I’m currently learning artificial intelligence and data science
 - 💞️ I’m looking to collaborate on apple technologies
--📫 How to reach me @ sanjumass25102004@gmail.com
+- 📫 How to reach me @ sanjumass25102004@gmail.com
 
 <!---
 Sanjeeviram007/Sanjeeviram007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

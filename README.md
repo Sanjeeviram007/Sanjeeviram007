@@ -1,232 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <title>RESUME</title>
-</head>
-<body>
-    <header class="showcase">
-        <div class="showcase-top">
-            <img src="img/logo.png" alt="me">
-            <a href="#" class="btn btn-rounded">Download CV</a>
-        </div>
-        <div class="showcase-content">
-            <h1>HI EVERYONE!!!</h1>
-            <p>I AM SANJEEVIRAM △</p>
-            <a href="#" class="btn btn-xl">
-                RESUME <i class="fas fa- btn-icon"></i>
-            </a>
-        </div>
-    </header>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-    <section class="tabs">
-       <div class="container">
-        <div id="tab-1" class="tab-item tab-border">
-            <i class="fas fa-book-open fa-3x"></i>
-            <p class="hide-sm">Education</p>
-        </div>
+###
 
-        <div id="tab-2" class="tab-item">
-            <i class="fas fa-brain fa-3x"></i>
-            <p class="hide-sm">Skill</p>
-        </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-        <div id="tab-3" class="tab-item">
-            <i class="fas fa-code fa-3x"></i>
-            <p class="hide-sm">Languages</p>
-        </div>
-        <div id="tab-4" class="tab-item">
-            <i class="fas fa-tags fa-3x"></i>
-            <p class="hide-sm">certificates</p>
-        </div>
-    
-        </div>
+###
 
-       </div>
-    </section>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-    <section class="tab-content">
-        <div class="container">
+###
 
-            <!-- tab content 1-->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-            <div id="tab-1-content" class="tab-content-item show">
-                 <div class="tab-1-content-inner">
-                    <div>
-                        <p class="text-lg">
-                         I am doing my undergraduation at Ramco institute of technology ,North venganallur,Rajapalayam.
-                         <h1>Qualification:</h1>
-<br>
-                         BTech- Artificial intelligence and data science
-                         <br>
-                         <br>
-                         <h1>Percentage:</h1>
-                         <p>SSLC: 79.5%<p>
-                         <p>HSC: 88%</p>
-                         <p>Anna University: Not yet announced<p>
-                        </p>
-                        <a href="" class="btn btn-lg">Download CV</a>
-                    </div>
-                     <img src="img/table-content-1.png" alt="">
-                </div>
-            </div>
+###
 
-            <!-- tab 2 content -->
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-            <div id="tab-2-content" class="tab-content-item">
-                
-                <div class="tab-2-content-bottom">
-                    <div>
-                        <img src="img/table-content-2-1.png" alt="">
-                        <p>ADOBE AFTER EFFECT</p>
-                        <p class="text-dark">
-                            After effects:performs extremely simple non-linear editing, audio editing, and media transcoding tasks.
-                        </p>
-                    </div>
-                    <div>
-                        <img src="img/table-content-2-2.png" alt="">
-                        <p>PHOTOSHOP DESIGNING</p>
-                        <p class="text-dark">
-                           The all-in-one tool includes a variety of functions and features for drawing, editing and producing.
-                        </p>
-                    </div>
-                    <div>
-                        <img src="img/table-content-2-3.png" alt="">
-                        <p>WEB DEVELOPMENT</p>
-                        <p class="text-dark">
-                            The part of a website that user interacts with directly is termed as front end. It is also referred to as the ‘client side’ of the application.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!--tab 4 content-->
-            <div id="tab-4-content" class="tab-content-item">
-                <div class="tab-4-content-top">
-                    <p class="text-lg">
-                        △ Imarticus learing - introduction to machine learning<br>
-                        △ guvi-Game development using pygame<br>
-                        △ guvi-python<br>
-                        △ Great learning-Python for non- programmers<br>
-                        △ Great learning-How to build own chatbot using python<br>
-                        △ Great learning-Introdduction to artificial intelligence<br>
-                        △ Great learning-Introdduction to Data science<br>
-                        △ Microsoft-Azure data fundamentals<br>
-                        △ Udemy-Python-Introduction to Data Science and Machine Learning A-Z<br>
-                        △Udemy-Learn in 67 mins how to do so well in your interviews<br>
-                        △ Udemy-The basics of Machine Learning<br>
-                    </p>
-                    <a href="#" class="btn btn-lg">Download CV</a>
-                </div>
-                
-            </div>
+###
 
-            <!-- tab 3 content -->
+<br clear="both">
 
-            <div id="tab-3-content" class="tab-content-item">
-                <div class="text-center">
-                    <p class="text-lg">
-                      These are the programming Languages I have completed.
-                    </p>
-                    <a href="#" class="btn btn-lg">Download CV</a>
-                </div>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th>Basic</th>
-                            <th>Mastered</th>
-            
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Python</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-check"></i></td>
-                        </tr>
-                        <tr>
-                            <td>Java</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-times"></i></td>
-                        </tr>
-                        <tr>
-                            <td>Javascript</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-times"></i></td>
-                            
-            
-                        </tr>
-                        <tr>
-                            <td>C++</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-check"></i></td>
-                            
-            
-                        </tr>
-                        <tr>
-                            <td>BootStrap</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-times"></i></td>
-                            
-            
-                        </tr>
-                        <tr>
-                            <td>css</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-check"></i></td>
-                        </tr>
-                        <tr>
-                            <td>Html</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-check"></i></td>
-                        </tr>
-                        <tr>
-                            <td>C</td>
-                            <td><i class="fas fa-check"></i></td>
-                            <td><i class="fas fa-check"></i></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-    </section>
-
-    <footer class="footer">
-        <p>Contact:gmail-953622243086@ritrjpm.ac.in</p>
-			<div class="footer-cols">
-				<ul>
-					<li><a href="#">LinkedIn</a></li>
-                    <a href="https://www.linkedin.com/in/sanjeevi-ram-536715250" class="btn btn-lg">
-                        CLICK HERE <i class="fas fa- btn-icon"></i>
-                    </a>
-					
-				</ul>
-				<ul>
-					<li><a href="#">Instagram</a></li>
-                    <a href="https://instagram.com/sanju_unique_007?igshid=NTc4MTIwNjQ2YQ" class="btn btn-lg">
-                        CLICK HERE <i class="fas fa- btn-icon"></i>
-                    </a>
-				</ul>
-				<ul>
-					<li><a href="#">GitHub</a></li>
-                    <a href="https://github.com/Sanjeeviram007" class="btn btn-lg">
-                        CLICK HERE <i class="fas fa- btn-icon"></i>
-                    </a>
-				</ul>
-				<ul>
-					<li><a href="#">Twitter</a></li>
-                    <a href="https://twitter.com/Sanjeeviram07" class="btn btn-lg">
-                        CLICK HERE <i class="fas fa- btn-icon"></i>
-                    </a>
-				</ul>
-			</div>
-    </footer>
-
-    <script src="js/main.js"></script>
-</body>
-</html>
+###

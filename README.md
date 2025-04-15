@@ -26,7 +26,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sanjeevi-ram-274947298/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-informational)](https://yourportfolio.com)  
 
 ---
